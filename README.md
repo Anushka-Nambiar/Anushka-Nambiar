@@ -56,4 +56,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Nambiar&theme=blue-green)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Anushka-Nambiar&show_icons=true)
+
